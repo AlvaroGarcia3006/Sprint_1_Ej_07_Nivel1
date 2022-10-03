@@ -1,0 +1,4 @@
+Añade a las clases hijas algunos métodos obsoletos (deprecated), 
+y utiliza la anotación correspondiente. Invoca desde una clase 
+externa los métodos obsoletos, suprimiendo mediante la correspondiente 
+anotación los “warnings” para ser obsoletos.
